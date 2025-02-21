@@ -20,7 +20,7 @@ During my summer 2024 internship at Regeneron Pharmaceuticals, I had the opportu
 
 [Study Of The Genetics Of Breast Cancer](https://rugcc.rutgers.edu/breast_cancer/)
 
-![Research Study of the Genetics of Breast Cancer Flyer](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/f11c7084-9295-4a96-9c1f-e75dc8c55df7/Regeneron_Breast_Flyer_20min_Page_1-scaled-e1726606348989.jpg)
+![Research Study of the Genetics of Breast Cancer Flyer](/src/assets/img/regeneron_breast_flyer_20min_page_1-scaled-e1726606348989.jpg)
 
 ### **The Jakob Nielsen's** **Heuristic Principles and Web Content Accessibility Guidelines WCAG 2.1**
 
@@ -61,7 +61,7 @@ The design should always keep users informed about what is going on, through app
 * Present feedback to the user as quickly as possible (ideally, immediately).
 * Build trust through open and continuous communication.
 
-![Visibility of System Status error, ancestry page.](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/1328a33b-68e1-4510-a580-f06f41dcff39/Screenshot+2024-10-06+at+7.13.02%E2%80%AFPM.png)
+![Visibility of System Status error, ancestry page.](/src/assets/img/screenshot-2024-10-06-at-7.13.02 pm.png)
 
 **Enrollment Flow, Ancestry**
 
@@ -77,7 +77,7 @@ The design should speak the users' language. Use words, phrases, and concepts fa
 * Never assume your understanding of words or concepts will match that of your users.
 * User research will uncover your users' familiar terminology, as well as their mental models around important concepts.
 
-![Enrollment. Breast Cancer Survey page](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/7725c7cf-0812-4558-a57f-71e7634ffa36/Screenshot+2024-10-06+at+7.25.58%E2%80%AFPM.png)
+![Enrollment. Breast Cancer Survey page](/src/assets/img/screenshot-2024-10-06-at-7.25.58 pm.png)
 
 **Enrollment Flow, Survey**
 
@@ -109,7 +109,7 @@ Users should not have to wonder whether different words, situations, or actions 
 * Maintain consistency within a single product or a family of products (internal consistency).
 * Follow established industry conventions (external consistency).
 
-![2 pages with consistency errors. General consent quiz with different error visuals.](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/bf60cbf1-560b-4671-a8fa-367ae711d168/Screenshot+2024-10-06+at+7.48.48%E2%80%AFPM.png)
+![2 pages with consistency errors. General consent quiz with different error visuals.](/src/assets/img/screenshot-2024-10-06-at-7.48.48 pm.png)
 
 **Onboarding Flow**
 
@@ -125,7 +125,7 @@ Good error messages are important, but the best designs carefully prevent proble
 * Avoid slips by providing helpful constraints and good defaults.
 * Prevent mistakes by removing memory burdens, supporting undo, and warning your users.
 
-![General consent part of the onboarding](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/089d8ad3-746f-4a39-a669-6977bc547916/Screenshot+2024-10-06+at+7.33.00%E2%80%AFPM.png)
+![General consent part of the onboarding](/src/assets/img/screenshot-2024-10-06-at-7.33.00 pm.png)
 
 **Onboarding Flow**
 
@@ -133,11 +133,11 @@ Good error messages are important, but the best designs carefully prevent proble
 
 **Severity Rating = 3**
 
-![Demographic survey page](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/adc0047f-4a61-4bd5-9a3c-1973ff181002/Screenshot+2024-10-06+at+8.10.22%E2%80%AFPM.png)
+![Demographic survey page](/src/assets/img/screenshot-2024-10-06-at-8.10.22 pm.png)
 
-![Study of the genetics of breast cancer page](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/993dd718-0025-4322-b714-629cadb33a8b/Screenshot+2024-10-06+at+8.10.31%E2%80%AFPM.png)
+![Study of the genetics of breast cancer page](/src/assets/img/screenshot-2024-10-06-at-8.10.31 pm.png)
 
-![Main home page of the breast cancer study](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/f2204282-b117-4411-8c81-3fb68ec31c33/Screenshot+2024-10-06+at+8.10.37%E2%80%AFPM.png)
+![Main home page of the breast cancer study](/src/assets/img/screenshot-2024-10-06-at-8.10.37 pm.png)
 
 **Enrollment Flow**
 
@@ -157,7 +157,7 @@ Minimize the user's memory load by making elements, actions, and options visible
 * Offer help in context, instead of giving users a long tutorial to memorize.
 * Reduce the information that users have to remember.
 
-![Dashboard with referral widget. Error with the "x."](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/363b01f8-54de-4907-973d-a21c727bffd3/Screenshot+2024-10-06+at+8.49.09%E2%80%AFPM.png)
+![Dashboard with referral widget. Error with the "x."](/src/assets/img/screenshot-2024-10-06-at-8.49.09 pm-copy.png)
 
 **Enrollment Flow, Dashboard**
 
@@ -173,7 +173,7 @@ Shortcuts — hidden from novice users — may speed up the interaction for the 
 * Provide personalization by tailoring content and functionality for individual users.
 * Allow for customization, so users can make selections about how they want the product to work.
 
-![Dashboard with referral widget. Error with the "x."](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/363b01f8-54de-4907-973d-a21c727bffd3/Screenshot+2024-10-06+at+8.49.09%E2%80%AFPM.png)
+![Dashboard with referral widget. Error with the "x."](/src/assets/img/screenshot-2024-10-06-at-8.49.09 pm-copy.png)
 
 **Enrollment Flow, Dashboard**
 
@@ -189,7 +189,7 @@ Interfaces should not contain information that is irrelevant or rarely needed. E
 * Don't let unnecessary elements distract users from the information they really need.
 * Prioritize the content and features to support primary goals.
 
-![Onboarding Page with a vague illustration of man.](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/2c3df409-505b-46d8-adf5-9660c95d2f95/Screenshot+2024-10-06+at+8.59.15%E2%80%AFPM.png)
+![Onboarding Page with a vague illustration of man.](/src/assets/img/screenshot-2024-10-06-at-8.59.15 pm.png)
 
 **Onboarding Flow**
 
@@ -197,7 +197,7 @@ The design is very vague. Adding contextual illustrations would enhance understa
 
 **Severity Rating = 3**
 
-![Enrollment flow. Surveys](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/032d87b1-292d-4f3d-8e78-7bd334307007/Screenshot+2024-10-06+at+8.59.26%E2%80%AFPM.png)
+![Enrollment flow. Surveys](/src/assets/img/screenshot-2024-10-06-at-8.59.26 pm.png)
 
 **Enrollment Flow, Surveys**
 
@@ -213,7 +213,7 @@ Error messages should be expressed in plain language (no error codes), precisely
 * Tell users what went wrong in language they will understand — avoid technical jargon.
 * Offer users a solution, like a shortcut that can solve the error immediately.
 
-![General consent quiz with error.](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/18b732d9-cd7b-4e32-a621-95438af9a984/Screenshot+2024-10-06+at+8.33.42%E2%80%AFPM.png)
+![General consent quiz with error.](/src/assets/img/screenshot-2024-10-06-at-8.33.42 pm.png)
 
 **Onboarding Flow**
 
@@ -221,7 +221,7 @@ Error messages should be expressed in plain language (no error codes), precisely
 
 **Severity Rating = 1**
 
-![Error on the survey page](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/bed9ebf7-3f68-4ee0-981c-90a66bbca107/Screenshot+2024-10-06+at+8.36.36%E2%80%AFPM.png)
+![Error on the survey page](/src/assets/img/screenshot-2024-10-06-at-8.36.36 pm.png)
 
 **Survey Flow**
 
@@ -237,7 +237,7 @@ It’s best if the system doesn’t need any additional explanation. However, it
 * Whenever possible, present the documentation in context right at the moment that the user requires it.
 * List concrete steps to be carried out.
 
-![Platform usage policies page in Onboarding flow](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/0fcdc38d-0ac8-4f20-a43c-8ea17edb57bf/Screenshot+2024-10-06+at+9.10.55%E2%80%AFPM.png)
+![Platform usage policies page in Onboarding flow](/src/assets/img/screenshot-2024-10-06-at-9.10.55 pm.png)
 
 **Onboarding Flow**
 
@@ -245,7 +245,7 @@ The onboarding flow lacks a help button. I recommend adding one on the right sid
 
 **Severity Rating = 2**
 
-![Support page](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/868ed1a8-c400-46ce-b820-6cc9b4517504/Screenshot+2024-10-06+at+9.14.26%E2%80%AFPM.png)
+![Support page](/src/assets/img/screenshot-2024-10-06-at-9.14.26 pm.png)
 
 **Support page**
 
@@ -257,7 +257,7 @@ The support page is lacking information. Adding more information and visuals wou
 
 By adhering to web accessibility standards, such as the Web Content Accessibility Guidelines (WCAG), designers and developers can create inclusive digital experiences that benefit everyone.
 
-![Verify email page](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/7e426dfb-4b53-4b22-bebb-d346526f800d/Screenshot+2024-10-06+at+9.27.30%E2%80%AFPM.png)
+![Verify email page](/src/assets/img/screenshot-2024-10-06-at-9.27.30 pm.png)
 
 **Onboarding Flow**
 
