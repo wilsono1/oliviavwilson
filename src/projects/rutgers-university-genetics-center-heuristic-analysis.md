@@ -157,7 +157,7 @@ Minimize the user's memory load by making elements, actions, and options visible
 * Offer help in context, instead of giving users a long tutorial to memorize.
 * Reduce the information that users have to remember.
 
-![Dashboard with referral widget. Error with the "x."](/src/assets/img/image12.png)
+![Dashboard with referral widget. Error with the x.](/src/assets/img/image12.png)
 
 **Enrollment Flow, Dashboard**
 
