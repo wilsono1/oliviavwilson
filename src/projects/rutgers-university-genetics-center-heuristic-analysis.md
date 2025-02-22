@@ -1,6 +1,5 @@
 ---
 title: Rutgers University Genetics Center Heuristic Analysis
-emoji: 😃
 date: 2025-02-21T23:27:25.874Z
 summary: A heuristic analysis case study of the ongoing Rutgers University
   Genetics Center’s Fight Against Breast Cancer study, conducted with the

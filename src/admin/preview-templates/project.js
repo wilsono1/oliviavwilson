@@ -11,7 +11,6 @@ const Project = createClass({
     return html`
       <div class="page-container">
         <h1>
-          <span class="project-card__emoji">${entry.getIn(['data', 'emoji'], null)}</span>
           ${entry.getIn(['data', 'title'], null)}
         </h1>
         <hr/>
