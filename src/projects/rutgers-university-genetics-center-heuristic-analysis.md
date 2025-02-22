@@ -20,7 +20,7 @@ During my summer 2024 internship at Regeneron Pharmaceuticals, I had the opportu
 
 [Study Of The Genetics Of Breast Cancer](https://rugcc.rutgers.edu/breast_cancer/)
 
-![Research Study of the Genetics of Breast Cancer Flyer](/src/assets/img/regeneron_breast_flyer_20min_page_1-scaled-e1726606348989.jpg)
+![Research Study of the Genetics of Breast Cancer Flyer](/src/assets/img/image0.jpg)
 
 ### **The Jakob Nielsen's** **Heuristic Principles and Web Content Accessibility Guidelines WCAG 2.1**
 
@@ -61,7 +61,7 @@ The design should always keep users informed about what is going on, through app
 * Present feedback to the user as quickly as possible (ideally, immediately).
 * Build trust through open and continuous communication.
 
-![Visibility of System Status error, ancestry page.](https://github.com/wilsono1/oliviavwilson/raw/master/src/assets/img/screenshot-2024-10-06-at-7.13.02%E2%80%AFpm.png)
+![Visibility of System Status error, ancestry page.](/src/assets/img/image2.png)
 
 **Enrollment Flow, Ancestry**
 
@@ -77,7 +77,7 @@ The design should speak the users' language. Use words, phrases, and concepts fa
 * Never assume your understanding of words or concepts will match that of your users.
 * User research will uncover your users' familiar terminology, as well as their mental models around important concepts.
 
-![Enrollment. Breast Cancer Survey page](/src/assets/img/screenshot-2024-10-06-at-7.25.58 pm.png)
+![Enrollment. Breast Cancer Survey page](/src/assets/img/image3.png)
 
 **Enrollment Flow, Survey**
 
@@ -93,7 +93,7 @@ Users often perform actions by mistake. They need a clearly marked "emergency ex
 * Show a clear way to exit the current interaction, like a *Cancel* button.
 * Make sure the exit is clearly labeled and discoverable.
 
-![Survey question: respiratory health questionaire](https://images.squarespace-cdn.com/content/v1/66fead220925210eab5a87d7/2caccaa2-af5a-44c3-a16e-c0969fcbbccc/Screenshot+2024-10-06+at+8.16.47%E2%80%AFPM.png)
+![Survey question: respiratory health questionaire](/src/assets/img/image9.png)
 
 **Enrollment and Surveys**
 
@@ -109,7 +109,7 @@ Users should not have to wonder whether different words, situations, or actions 
 * Maintain consistency within a single product or a family of products (internal consistency).
 * Follow established industry conventions (external consistency).
 
-![2 pages with consistency errors. General consent quiz with different error visuals.](/src/assets/img/screenshot-2024-10-06-at-7.48.48 pm.png)
+![2 pages with consistency errors. General consent quiz with different error visuals.](/src/assets/img/image5.png)
 
 **Onboarding Flow**
 
@@ -125,7 +125,7 @@ Good error messages are important, but the best designs carefully prevent proble
 * Avoid slips by providing helpful constraints and good defaults.
 * Prevent mistakes by removing memory burdens, supporting undo, and warning your users.
 
-![General consent part of the onboarding](/src/assets/img/screenshot-2024-10-06-at-7.33.00 pm.png)
+![General consent part of the onboarding](/src/assets/img/image4.png)
 
 **Onboarding Flow**
 
@@ -133,11 +133,11 @@ Good error messages are important, but the best designs carefully prevent proble
 
 **Severity Rating = 3**
 
-![Demographic survey page](/src/assets/img/screenshot-2024-10-06-at-8.10.22 pm.png)
+![Demographic survey page](/src/assets/img/image6.png)
 
-![Study of the genetics of breast cancer page](/src/assets/img/screenshot-2024-10-06-at-8.10.31 pm.png)
+![Study of the genetics of breast cancer page](/src/assets/img/image7.png)
 
-![Main home page of the breast cancer study](/src/assets/img/screenshot-2024-10-06-at-8.10.37 pm.png)
+![Main home page of the breast cancer study](/src/assets/img/image8.png)
 
 **Enrollment Flow**
 
@@ -157,7 +157,7 @@ Minimize the user's memory load by making elements, actions, and options visible
 * Offer help in context, instead of giving users a long tutorial to memorize.
 * Reduce the information that users have to remember.
 
-![Dashboard with referral widget. Error with the "x."](/src/assets/img/screenshot-2024-10-06-at-8.49.09 pm-copy.png)
+![Dashboard with referral widget. Error with the "x."](/src/assets/img/image12.png)
 
 **Enrollment Flow, Dashboard**
 
@@ -173,7 +173,7 @@ Shortcuts — hidden from novice users — may speed up the interaction for the 
 * Provide personalization by tailoring content and functionality for individual users.
 * Allow for customization, so users can make selections about how they want the product to work.
 
-![Dashboard with referral widget. Error with the "x."](/src/assets/img/screenshot-2024-10-06-at-8.49.09 pm-copy.png)
+![Dashboard with referral widget. Error with the "x."](/src/assets/img/image12.png)
 
 **Enrollment Flow, Dashboard**
 
@@ -189,7 +189,7 @@ Interfaces should not contain information that is irrelevant or rarely needed. E
 * Don't let unnecessary elements distract users from the information they really need.
 * Prioritize the content and features to support primary goals.
 
-![Onboarding Page with a vague illustration of man.](/src/assets/img/screenshot-2024-10-06-at-8.59.15 pm.png)
+![Onboarding Page with a vague illustration of man.](/src/assets/img/image13.png)
 
 **Onboarding Flow**
 
@@ -197,7 +197,7 @@ The design is very vague. Adding contextual illustrations would enhance understa
 
 **Severity Rating = 3**
 
-![Enrollment flow. Surveys](/src/assets/img/screenshot-2024-10-06-at-8.59.26 pm.png)
+![Enrollment flow. Surveys](/src/assets/img/image14.png)
 
 **Enrollment Flow, Surveys**
 
@@ -213,7 +213,7 @@ Error messages should be expressed in plain language (no error codes), precisely
 * Tell users what went wrong in language they will understand — avoid technical jargon.
 * Offer users a solution, like a shortcut that can solve the error immediately.
 
-![General consent quiz with error.](/src/assets/img/screenshot-2024-10-06-at-8.33.42 pm.png)
+![General consent quiz with error.](/src/assets/img/image10.png)
 
 **Onboarding Flow**
 
@@ -221,7 +221,7 @@ Error messages should be expressed in plain language (no error codes), precisely
 
 **Severity Rating = 1**
 
-![Error on the survey page](/src/assets/img/screenshot-2024-10-06-at-8.36.36 pm.png)
+![Error on the survey page](/src/assets/img/image11.png)
 
 **Survey Flow**
 
@@ -237,7 +237,7 @@ It’s best if the system doesn’t need any additional explanation. However, it
 * Whenever possible, present the documentation in context right at the moment that the user requires it.
 * List concrete steps to be carried out.
 
-![Platform usage policies page in Onboarding flow](/src/assets/img/screenshot-2024-10-06-at-9.10.55 pm.png)
+![Platform usage policies page in Onboarding flow](/src/assets/img/image15.png)
 
 **Onboarding Flow**
 
@@ -245,7 +245,7 @@ The onboarding flow lacks a help button. I recommend adding one on the right sid
 
 **Severity Rating = 2**
 
-![Support page](/src/assets/img/screenshot-2024-10-06-at-9.14.26 pm.png)
+![Support page](/src/assets/img/image16.png)
 
 **Support page**
 
@@ -257,7 +257,7 @@ The support page is lacking information. Adding more information and visuals wou
 
 By adhering to web accessibility standards, such as the Web Content Accessibility Guidelines (WCAG), designers and developers can create inclusive digital experiences that benefit everyone.
 
-![Verify email page](/src/assets/img/screenshot-2024-10-06-at-9.27.30 pm.png)
+![Verify email page](/src/assets/img/image17.png)
 
 **Onboarding Flow**
 
