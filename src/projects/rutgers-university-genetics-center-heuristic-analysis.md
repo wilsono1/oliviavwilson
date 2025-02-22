@@ -61,7 +61,7 @@ The design should always keep users informed about what is going on, through app
 * Present feedback to the user as quickly as possible (ideally, immediately).
 * Build trust through open and continuous communication.
 
-![Visibility of System Status error, ancestry page.](/src/assets/img/screenshot-2024-10-06-at-7.13.02 pm.png)
+![Visibility of System Status error, ancestry page.](https://github.com/wilsono1/oliviavwilson/raw/master/src/assets/img/screenshot-2024-10-06-at-7.13.02%E2%80%AFpm.png)
 
 **Enrollment Flow, Ancestry**
 
