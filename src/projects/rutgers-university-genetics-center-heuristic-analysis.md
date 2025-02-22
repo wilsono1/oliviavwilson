@@ -11,7 +11,8 @@ metaDescription: A heuristic analysis case study of the ongoing Rutgers
   the permission of Johnathon Ross, the Head of Product Management at the
   Regeneron Genetics Center (RGC).
 tags:
-  - August 2024  Heuristic Analysis  User Interface Principles
+  - August 2024
+  - Heuristic Analysis  User Interface Principles
   - Web Accessibility Standards
 ---
 ### **Project Overview**
