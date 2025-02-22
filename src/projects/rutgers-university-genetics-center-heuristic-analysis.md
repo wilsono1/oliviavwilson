@@ -173,7 +173,7 @@ Shortcuts — hidden from novice users — may speed up the interaction for the 
 * Provide personalization by tailoring content and functionality for individual users.
 * Allow for customization, so users can make selections about how they want the product to work.
 
-![Dashboard with referral widget. Error with the "x."](/src/assets/img/image12.png)
+![Dashboard with referral widget. Error with the x.](/src/assets/img/image12.png)
 
 **Enrollment Flow, Dashboard**
 
